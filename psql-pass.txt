@@ -5,3 +5,4 @@ amber
 admin
 postgres
 root
+dcmadmin
