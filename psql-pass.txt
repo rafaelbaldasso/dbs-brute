@@ -1,0 +1,7 @@
+123
+password
+passw0rd
+amber
+admin
+postgres
+root
