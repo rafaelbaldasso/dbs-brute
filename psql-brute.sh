@@ -6,6 +6,7 @@ if [ "$1" == "" ]
         else
                 for u in $(cat users.txt);do
                         for p in $(cat pass.txt);do
+                                echo $u:$p
                                 psql postgresql://$u:$p@$1
                         done
                 done
