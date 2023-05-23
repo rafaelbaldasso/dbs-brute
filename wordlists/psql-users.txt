@@ -1,0 +1,4 @@
+postgres
+dcmadmin
+admin
+root
